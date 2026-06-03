@@ -14,6 +14,8 @@ credits: true
 
 ## About the Collection
 
+These media obects are collected to show the workings of the Psychiana Religion. Photos and pdf's depict Psychiana-related products such as zines and propaganda posters, as well as documentation of the people behind and a part of the religion's functioning.
+
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
 - a CSV of collection metadata
